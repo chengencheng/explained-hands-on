@@ -1,0 +1,18 @@
+5,030 trading days from 2006-01-04 to 2025-12-31 / 个交易日
+miss the  0 best days / 错过最好的  0 天: $   79,316
+miss the 10 best days / 错过最好的 10 天: $   35,286
+miss the 20 best days / 错过最好的 20 天: $   20,834
+miss the 30 best days / 错过最好的 30 天: $   13,603
+
+The 10 best days / 最好的 10 天:
+  2008-10-13  +11.6%  ← within 2 weeks of a worst day (2008-10-15) / 与最差的一天相隔两周内
+  2008-10-28  +10.8%  ← within 2 weeks of a worst day (2008-10-15) / 与最差的一天相隔两周内
+  2025-04-09  +9.5%
+  2020-03-24  +9.4%  ← within 2 weeks of a worst day (2020-03-16) / 与最差的一天相隔两周内
+  2020-03-13  +9.3%  ← within 2 weeks of a worst day (2020-03-16) / 与最差的一天相隔两周内
+  2009-03-23  +7.1%
+  2020-04-06  +7.0%
+  2008-11-13  +6.9%  ← within 2 weeks of a worst day (2008-11-20) / 与最差的一天相隔两周内
+  2008-11-24  +6.5%  ← within 2 weeks of a worst day (2008-12-01) / 与最差的一天相隔两周内
+  2009-03-10  +6.4%
+Saved / 已保存: results/5_best_days.png

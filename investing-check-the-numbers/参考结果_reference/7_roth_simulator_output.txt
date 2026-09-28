@@ -1,0 +1,8 @@
+You put in / 你存入: $12,000  (ages / 年龄 16-19)
+Smooth 6.8%/yr (Episode 17) / 平稳 6.8%（第 17 集）:        $     273,836
+Random real history, middle result / 随机真实历史，中间结果: $     278,154
+  unlucky 10% end below / 最差的 10% 低于:                 $      51,242
+  lucky 10% end above / 最好的 10% 高于:                   $   1,452,757
+Futures that ended below what you put in / 最后低于本金的未来: 1.0%
+(all in today's dollars, after inflation, before any fees / 均为扣除通胀后的今天美元，未计费用)
+Saved / 已保存: results/7_roth_futures.png

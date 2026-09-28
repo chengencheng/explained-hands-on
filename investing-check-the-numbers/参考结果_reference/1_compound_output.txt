@@ -1,0 +1,7 @@
+Emma put in / 艾玛存入      $   12,000  → at 65 / 65 岁时 $   240,737
+Ben put in  / 本存入        $   46,800  → at 65 / 65 岁时 $   231,128
+Emma, 16-65 / 艾玛坚持到 65 $   58,800  → at 65 / 65 岁时 $   471,865
+At 4%: rule of 72 says 18.0 years, exact answer 17.67 years / 利率 4%：72 法则估计 18.0 年，精确答案 17.67 年
+At 7%: rule of 72 says 10.3 years, exact answer 10.24 years / 利率 7%：72 法则估计 10.3 年，精确答案 10.24 年
+At 10%: rule of 72 says 7.2 years, exact answer 7.27 years / 利率 10%：72 法则估计 7.2 年，精确答案 7.27 年
+Saved / 已保存: results/1_twins.png

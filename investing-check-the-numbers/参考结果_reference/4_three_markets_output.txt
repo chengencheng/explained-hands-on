@@ -1,0 +1,11 @@
+Start at 100 on 1997-07-02 / 1997-07-02 起点设为 100:
+  S&P 500 (price)            →     857   (+7.6% a year / 每年)
+  S&P 500 (with dividends)   →   1,447   (+9.6% a year / 每年)
+  Shanghai Composite         →     324   (+4.1% a year / 每年)
+  Nikkei 225                 →     329   (+4.2% a year / 每年)
+Saved / 已保存: results/4_three_markets.png
+
+Biggest falls / 最大跌幅:
+  Shanghai 上证: peak / 高点 6,092 on 2007-10-16 → bottom / 低点 1,707 (-72%) → back / 回到高点: not yet / 尚未回到
+  Nikkei 日经 (since 1965): peak / 高点 38,916 on 1989-12-29 → bottom / 低点 7,055 (-82%) → back / 回到高点: 2024-02-22 (34.1 years later / 年后)
+  S&P 500 标普: peak / 高点 1,565 on 2007-10-09 → bottom / 低点 677 (-57%) → back / 回到高点: 2013-03-28 (5.5 years later / 年后)

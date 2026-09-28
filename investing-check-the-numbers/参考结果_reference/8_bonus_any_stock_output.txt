@@ -1,0 +1,6 @@
+$10,000 invested on 2006-01-03 → 2026-09-25 / 投入 1 万美元:
+  AAPL   $ 1,525,532    biggest fall / 最大跌幅 -61%
+  GE     $    31,419    biggest fall / 最大跌幅 -83%
+  KO     $    80,423    biggest fall / 最大跌幅 -41%
+  SPY    $    88,880    biggest fall / 最大跌幅 -55%
+Saved / 已保存: results/8_any_stock.png

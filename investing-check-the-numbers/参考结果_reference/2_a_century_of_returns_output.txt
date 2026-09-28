@@ -1,0 +1,11 @@
+$100 at the start of 1928 → end of 2025 (98 years) / 1928 年初的 100 美元 → 2025 年底:
+             nominal 名义   after inflation 实际     real %/yr 实际年化
+stocks   $    1,157,591 $             61,799              6.8%
+bonds    $        7,714 $                412              1.5%
+tbills   $        2,579 $                138              0.3%
+gold     $       21,021 $              1,122              2.5%
+
+Stocks fell in 26 of 98 years / 股票在 98 年中有 26 年下跌
+Worst year / 最差年份: 1931 (-43.8%)    Best year / 最好年份: 1954 (+52.6%)
+Five worst years / 最差的五年: 1931 (-44%), 2008 (-37%), 1937 (-35%), 1974 (-26%), 1930 (-25%)
+Saved / 已保存: results/2_century.png

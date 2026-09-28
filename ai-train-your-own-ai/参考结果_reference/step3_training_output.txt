@@ -1,0 +1,82 @@
+Dataset / 数据集: stories   characters / 总字符数: 22,147,122   vocabulary / 不同的字符: 77
+Stories / 故事数量: 27,626
+Parameters / 参数个数: 10,805,069
+
+Training for 5000 steps on cuda ... / 开始训练 5000 步 ...
+
+step     0   loss: train 4.493  val 4.494   (    2 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a timerfzxmq7`HP,DwS,lV-Pr-E.tJVn6iA R;YFtx`C5Rq4"sUNQIkWE.0wbC593WQJQ XN9OLN:ieN9Djlf`sswk/ivx9 TNa!9PQqUtulqN;uvHM`vV7hPcOomo"sbsN OdH'"BC
+
+step   250   loss: train 1.441  val 1.450   (   12 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time boall named Sur. One day, A a playing with tree.
+
+step   500   loss: train 1.060  val 1.077   (   22 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, there was a big and careful wals. She loved it a was ant inside the was very happy. Lily and Tim said, "Hi. This is excite will. The
+
+step   750   loss: train 0.919  val 0.926   (   32 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time that day. She was so happy too. But, he remembered he climbed his jew us hand. The kind had an idea. She stood with her toys, and the
+
+step  1000   loss: train 0.825  val 0.842   (   42 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, there was an old norman. The turtle boy liked hopping treats of the people in the sun. The turtle cat was so proud of the streamble 
+
+step  1250   loss: train 0.782  val 0.792   (   52 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, a little girl named Sue would help her mam. She lift they could help the big field ved in the couch. The moral of the story is the o
+
+step  1500   loss: train 0.745  val 0.769   (   61 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, in a small house, there lived a poor. The poor was a very cold piece to the poor and learn to the birds them. They had a great time 
+
+step  1750   loss: train 0.727  val 0.744   (   71 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, there was a living rope asked for help and glowing them asked Tom for help. He wished he had never seen the door with his family if 
+
+step  2000   loss: train 0.707  val 0.728   (   81 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, in a small town, there was a big red car. The car hopped over to the bear. The car was blue and scared. One day, he saw a little whi
+
+step  2250   loss: train 0.687  val 0.708   (   91 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, there was a little girl named Lily. She loved to chuck her necklace to get off. One day, Lily was in the park when she was being sca
+
+step  2500   loss: train 0.677  val 0.697   (  101 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, there was a cool that he tried to pincle but the shape was very good. In the alligator did not go in the forest. It was a happy girl
+
+step  2750   loss: train 0.657  val 0.687   (  111 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, in a little house, there lived a kind girl named Daisy. Daisy loved to say sorry to each other. Every day, she would come to the liv
+
+step  3000   loss: train 0.647  val 0.671   (  121 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, there was a little girl named Lily. She loved to play with her soft toys in her room. One day, her mom asked her to come to the park
+
+step  3250   loss: train 0.632  val 0.662   (  130 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, the big bird was very indeed. The big bird was surprised to see the pretty pictures in the big tree. One day, the big bird flew up i
+
+step  3500   loss: train 0.627  val 0.654   (  140 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time there was a gentle prize called Joe. His name was Lily and her friends asked for why he saw what he had done. He was happy that he wa
+
+step  3750   loss: train 0.620  val 0.643   (  150 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, there was a little boy named Tim. He loved to do things to do fun playing with. One day, Tim saw a big egg on the ground. He was so 
+
+step  4000   loss: train 0.607  val 0.641   (  160 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, there was a slow cat named Cat. Cat loved to rain and play all day. One day, Cat saw a big red car make a loud noise. The cat wanted
+
+step  4250   loss: train 0.603  val 0.633   (  170 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, there was a little boy named Tim. Tim loved to hop around the garden. One day, he was playing in the garden when he heard a loud noi
+
+step  4500   loss: train 0.596  val 0.633   (  180 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, in a small town, there lived a little dragon. The dragon was very kind and learned that really is important that the ladder will rea
+
+step  4750   loss: train 0.597  val 0.629   (  190 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, there was a little girl named Lucy. Lucy was very kind and liked to help her. One day, she met a big bear named Ben. Lucy was very h
+
+step  5000   loss: train 0.593  val 0.627   (  199 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: Once upon a time, there was a small squirrel named Tim. Tim loved to eat sweet near his house. One day, Tim saw a big closet on the sea. He wanted to 
+
+Done in 3.3 minutes. / 训练完成，用时 3.3 分钟。
+Best model: step 5000, val loss 0.627 -> saved in storyteller_stories.pt / 最好的模型在第 5000 步，已保存到 storyteller_stories.pt
+Saved the loss curve to loss_stories.png / 损失曲线已保存到 loss_stories.png
+
+Two stories from your model / 你的模型写的两个故事:
+
+Once upon a time, there was a little boy named Tom. Tom wanted to play with his friends. They played together near a big tree the kitchen.
+One day, Tom found a small bug on the tree. The bug had so much fun. It thought the bug was dry, but Tom didn't know what to do. They decided to play together all day.
+Tom asked his friends, "Can I buy your water a big bug?" Tom said, "Yes, but be careful next time, it just be tidy." They took the bug out and laughed. The bug had a great time at the bug, he went to the bug. At the bug got stuck home, looking for his water. He was happy. 
+
+Tom and his dog were grateful for the drawing for the pony. Tom saw the big boat and said, "I told you to think of that helps you clean." Tom and his dog were happy to see the kids and thanked Tom for his help. 
+
+Next: python 4_write_stories.py    / 下一步：运行 4_write_stories.py

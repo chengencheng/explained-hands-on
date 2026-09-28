@@ -1,0 +1,24 @@
+Python version / Python 版本: 3.14.0
+numpy 2.5.3 · pandas 3.0.6 · matplotlib 3.11.2
+
+Downloading daily prices from Yahoo Finance (about 1 minute) / 正在从雅虎财经下载每日价格（约 1 分钟）...
+  ✅ sp500_daily_1928_2026.csv
+  ✅ sp500_total_return_daily_1988_2026.csv
+  ✅ nikkei_daily_1965_2026.csv
+  ✅ world_markets_daily_1997_2026.csv
+
+✅ nikkei_daily_1965_2026.csv                    15,173 rows / 行   1965-01-05 → 2026-09-25
+✅ sp500_daily_1928_2026.csv                     24,800 rows / 行   1928-01-03 → 2026-09-25
+✅ sp500_total_return_daily_1988_2026.csv         9,756 rows / 行   1988-01-04 → 2026-09-25
+✅ us_annual_returns_1928_2025.csv                   98 rows / 行   1928 → 2025
+✅ world_markets_daily_1997_2026.csv              7,602 rows / 行   1997-07-02 → 2026-09-25
+
+A peek at the yearly returns / 看一眼年度收益率数据:
+ year  stocks   bonds  tbills    gold  inflation
+ 2021  0.2847 -0.0442  0.0004 -0.0375     0.0704
+ 2022 -0.1804 -0.1783  0.0209  0.0055     0.0645
+ 2023  0.2606  0.0388  0.0528  0.1326     0.0335
+ 2024  0.2488 -0.0164  0.0518  0.2596     0.0289
+ 2025  0.1778  0.0780  0.0421  0.6622     0.0268
+
+All good! Next / 一切就绪！下一步:  python 1_compound.py

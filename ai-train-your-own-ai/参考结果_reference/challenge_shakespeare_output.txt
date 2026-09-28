@@ -1,0 +1,148 @@
+Dataset / 数据集: shakespeare   characters / 总字符数: 1,115,394   vocabulary / 不同的字符: 65
+Parameters / 参数个数: 10,795,841
+
+Training for 5000 steps on cuda ... / 开始训练 5000 步 ...
+
+step     0   loss: train 4.331  val 4.321   (    3 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: ROMEO:Awr;?bDkRZrNdcOwd,ZT,O-lT,eqtK b:qPj&kMBbeA$3:XaSGgO-3DjMGk?YchauhXFYVXJtQ&NNuwqh$kWv.tbVFddXltFcaLeWFwc.MPm.Wx,fDs$a-zxzC$NW: Yo3&$-MtofViEEvq!
+
+step   250   loss: train 1.856  val 1.978   (   13 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: ROMEO: Your arrace! manly dien uptens; Hon wity pruptiness hew yevell and nor To this love plest, demetingleo Willo where is as the mod Arroch he him 
+
+step   500   loss: train 1.458  val 1.662   (   23 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: ROMEO: Most while Priseness? I am I see! At you are advances! Edward his beseech. And your brother not! My fie that see Your see not be hand have myse
+
+step   750   loss: train 1.305  val 1.572   (   32 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: ROMEO: Why parts the might to England?  Third Citizen: The king, to my partly of this peril sone Which I should Richard you to possess; Your world, I 
+
+step  1000   loss: train 1.199  val 1.535   (   42 s)   <- best so far, saved / 目前最好，已保存
+   sample / 样例: ROMEO: A door word I, this had so done, As their hateful names do this man their fatiends? Benefit my brand approach is better interrup.  ESCALUS: Has
+
+step  1250   loss: train 1.105  val 1.548   (   52 s)
+   sample / 样例: ROMEO: The consequench and the towns of him: Rumour he, here I was; I am not well should In pempts things so means time.  CAPULET: Well, we were decei
+
+step  1500   loss: train 0.998  val 1.630   (   62 s)
+   sample / 样例: ROMEO: No, no; I see but when I speak.  DUKE VINCENTIO: Sir, the strong's life, that Tybalt loo! And follow not, beseech you, sir, that are but back. 
+
+step  1750   loss: train 0.877  val 1.727   (   72 s)
+   sample / 样例: ROMEO: Cry the post, place. If I have any heart That may be brief more words and bawd, that I would Most hear the work of what I may.  LUCENTIO: Sir, 
+
+step  2000   loss: train 0.729  val 1.912   (   81 s)
+   sample / 样例: ROMEO: But in vain you, sir.  Third Messenger: He had so sworn to many his suit hath too, to cruel and in rogue's heart: which I do confess In this mu
+
+step  2250   loss: train 0.564  val 2.162   (   91 s)
+   sample / 样例: ROMEO: But I'll reach your but your eye, If litter spoil more than a hand, as you,-- Past love's , much, madam, I said ne'er dam.  POMPEY: Say, Phie, 
+
+step  2500   loss: train 0.415  val 2.480   (  101 s)
+   sample / 样例: ROMEO: But lack, like a prince shament and words; The rage is with the day, and will turn your soldiers.  FRIAR LAURENCE: O God hear no more.  MARGAEN
+
+step  2750   loss: train 0.297  val 2.806   (  110 s)
+   sample / 样例: ROMEO: More company than a tree conduced With gives and preserving fortune; then The grass of one soul shall see the contrary. This is the sanctuary t
+
+step  3000   loss: train 0.209  val 3.163   (  120 s)
+   sample / 样例: ROMEO: Not to make all costless do at the simple grant: The sunrers have I left heard of them; Which seems so brief we shed to the enemies, Crying all
+
+step  3250   loss: train 0.157  val 3.457   (  130 s)
+   sample / 样例: ROMEO: Thou'rt to me to the friar? What tongue more for war?  Second Watchman: 'Tis the fishes better when he beguiled, He should have writ such chang
+
+step  3500   loss: train 0.129  val 3.726   (  140 s)
+   sample / 样例: ROMEO: I have a Roman; go with you.  BARNARDINE: I hear not prophet for this my brand.  DUKE VINCENTIO: No more of report to have his welcome to: And 
+
+step  3750   loss: train 0.113  val 3.904   (  149 s)
+   sample / 样例: ROMEO: Are they stay, that makes them shall bring them to the To execute the dead born.  Provost: What comfort is this?  DUKE VINCENTIO: Go, and Lanca
+
+step  4000   loss: train 0.104  val 4.009   (  159 s)
+   sample / 样例: ROMEO: More light and light; more dark and dark our woes!  Nurse: Madam!  JULIET: Nurse?  Nurse: Your lady mother is coming to your chamber: The day i
+
+step  4250   loss: train 0.098  val 4.115   (  169 s)
+   sample / 样例: ROMEO: A wicked pitch'd with ginge! O, that makes me To see another, make thee offer word; Thou wretch thyself, thou wert not with child.  QUEEN MARGA
+
+step  4500   loss: train 0.095  val 4.138   (  179 s)
+   sample / 样例: ROMEO: Well, in that hit you miss: she'll not be hit With Cupid's arrow; she hath Dian's wit; And, in strong proof of chastity well arm'd, From love's
+
+step  4750   loss: train 0.093  val 4.189   (  188 s)
+   sample / 样例: ROMEO:  A petty servant; I warrant thee, good father: How far off his nature, which is a guilt wash a big; Therefore was a common bound in Padua here 
+
+step  5000   loss: train 0.091  val 4.228   (  198 s)
+   sample / 样例: ROMEO: Let me be satisfied, let me be some officer: I And I being gone to Friar Laurence' cell; The most sorrow was the traitors in'tness, And crack t
+
+Done in 3.3 minutes. / 训练完成，用时 3.3 分钟。
+Best model: step 1000, val loss 1.535 -> saved in storyteller_shakespeare.pt / 最好的模型在第 1000 步，已保存到 storyteller_shakespeare.pt
+  Note: val loss stopped improving, so the model started memorizing (overfitting). We kept the best version.
+  注意：val 损失后来不降反升，说明模型开始死记硬背（过拟合）。我们保留了最好的那个版本。
+Saved the loss curve to loss_shakespeare.png / 损失曲线已保存到 loss_shakespeare.png
+
+Two stories from your model / 你的模型写的两个故事:
+
+ROMEO:
+Sir, strike, nor no, silence, I writ thee.
+
+ANGELO:
+Sir, I am good good to be in any summer'd
+With that I contiffed with the deputy:
+I do not have found, since for a mine of this face
+Let me the good from the should I see the love
+Till in the hand at supple I defy thee.
+
+DUKE OF AUMERLE:
+My lords, I am heart.
+
+LORD FIT:
+I am threateness: it is not the king hom I best
+In this inclined ship ignorance to the swort
+To say be more fortune,
+Is thoughts it by no lands, and not harm
+At my back: perty with thousands and night
+Southing by 'field my dristed seizes lies.
+
+LEONTES:
+Come, come, the untimely Martius,
+To plant the broke of creatures as his foe
+At the shephers of mercy well, now she committle
+And have ta'en what it in degreeling of this.
+That comes to be inclined gracious country?
+For Cominius yet both away? For Romeo
+Fool's to his face; the offer a flant of bear,
+I will and mad of a prince and the old
+Accord to the follow such as old follows,
+As if should had some short to so bring a 
+
+JULIET:
+Pood, then, my lord.
+
+DUKE VINCENTIO:
+Well from the lovel goest.
+
+ISABELLA:
+Let's forth horse; the bear the seized of my child
+The story of the great court, sir, that thou art last,
+Finench most to enfects him with thy bosom,
+Or how his arms with this fair seats pursued;
+And for turn to achious soviery sun of those cures
+Coming should name of Hereford kings:
+And, let them me us no so livery such susporge;
+And the duest, now for the worm of war,
+Nor foolish words to the people, consent them.
+
+SICINIUS:
+You may accident, and more than any gime
+Retound their felty and garling gently wails.
+
+MENENIUS:
+Be your glorness! You show may strake your grow
+To seek you what way have dined for him?
+
+VOLUMNIA:
+I be not till.
+
+VOLUMNIA:
+In banishment at any said minisages
+Rest there counsel of the third is of kinges
+To please the oner and thee; they are they
+For thy proof, taking themselves, being my lands. But how
+Have no matter to the state thy rid in his grace.
+
+CAMILLO:
+My lord, consul, sir, that 
+
+Next: python 4_write_stories.py shakespeare   / 下一步：运行 4_write_stories.py

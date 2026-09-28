@@ -1,0 +1,6 @@
+hold  1 yrs / 持有  1 年:  98 periods / 个区间, lost money / 亏钱  31.6%,  worst / 最差 -38.1%/yr,  best / 最好 +53.7%/yr
+hold  5 yrs / 持有  5 年:  94 periods / 个区间, lost money / 亏钱  23.4%,  worst / 最差 -10.3%/yr,  best / 最好 +25.3%/yr
+hold 10 yrs / 持有 10 年:  89 periods / 个区间, lost money / 亏钱  12.4%,  worst / 最差  -3.8%/yr,  best / 最好 +17.9%/yr
+hold 15 yrs / 持有 15 年:  84 periods / 个区间, lost money / 亏钱   6.0%,  worst / 最差  -0.5%/yr,  best / 最好 +15.1%/yr
+hold 20 yrs / 持有 20 年:  79 periods / 个区间, lost money / 亏钱   0.0%,  worst / 最差  +0.6%/yr,  best / 最好 +13.2%/yr
+Saved / 已保存: results/3_patience.png

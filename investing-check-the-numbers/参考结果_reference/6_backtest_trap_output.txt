@@ -1,0 +1,4 @@
+Buy and hold / 买入持有:  2000-2012 -0.2%/yr   2013-2025 +12.8%/yr
+Best rule / 最好的规则 (MA 45 vs 254):  2000-2012 +6.4%/yr  →  2013-2025 +7.8%/yr
+Rules beating buy & hold / 跑赢买入持有的规则:  2000-2012: 792 of 1,000   2013-2025: 0 of 1,000
+Saved / 已保存: results/6_backtest_trap.png

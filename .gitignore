@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+results/
+# downloaded at run time / 运行时下载的数据
+ai-train-your-own-ai/data/
+*.pt
+investing-check-the-numbers/data/*
+!investing-check-the-numbers/data/us_annual_returns_1928_2025.csv
