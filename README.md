@@ -1,8 +1,8 @@
-# Explained: Hands-on / 动手篇
+# Cheng Academy · 程氏学堂 — Hands-on / 动手篇
 
-Code and step-by-step guides for the hands-on episodes of two bilingual video series (English narration, English + Chinese subtitles):
+Code and step-by-step guides for the hands-on episodes of two bilingual video series from **Cheng Academy · 程氏学堂** (English narration, English + Chinese subtitles):
 
-两个双语视频系列（英文配音，中英双语字幕）“动手篇”的代码和分步教程：
+**程氏学堂**两个双语视频系列（英文配音，中英双语字幕）“动手篇”的代码和分步教程：
 
 | Folder / 文件夹 | Series / 系列 | What you do / 你会做什么 | Time / 时间 |
 |---|---|---|---|
