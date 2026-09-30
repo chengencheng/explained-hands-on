@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>StudyCrew · find your study group</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onTurnstileLoad&render=explicit" async defer></script>
+</head>
+<body>
+  <header><h1>StudyCrew</h1><p>Study with classmates on the same chapter this week.<br><span class="zh">和这周复习同一章的同学一起学习。</span></p></header>
+
+  <main>
+    <form id="join" novalidate>
+      <label>First name <span class="zh">名字</span><input name="firstName" maxlength="30" autocomplete="given-name" required></label>
+      <label>Class <span class="zh">班级</span><input name="className" maxlength="12" placeholder="10B" required></label>
+      <label>Subject <span class="zh">科目</span>
+        <select name="subject" required>
+          <option>Math</option><option>Physics</option><option>Chemistry</option><option>Biology</option>
+          <option>English</option><option>Chinese</option><option>History</option><option>Geography</option>
+        </select>
+      </label>
+      <label>Chapter <span class="zh">章节</span><input name="chapter" maxlength="40" placeholder="Chapter 3" required></label>
+      <fieldset>
+        <legend>When are you free? <span class="zh">你什么时候有空？</span></legend>
+        <div id="slots"></div>
+      </fieldset>
+      <label id="codeRow" hidden>Class code <span class="zh">班级口令</span><input name="classCode" maxlength="20"></label>
+      <div id="turnstile"></div>
+      <button type="submit" disabled>Find my crew <span class="zh">找到我的小组</span></button>
+      <p id="error" role="alert"></p>
+    </form>
+
+    <section id="crew" hidden>
+      <h2>Your crew <span class="zh">你的小组</span></h2>
+      <p class="big" id="when"></p>
+      <p id="what"></p>
+      <ul id="members"></ul>
+      <p class="note">We keep your first name, class and free times for 14 days, then delete them.<br><span class="zh">我们只保存你的名字、班级和空闲时间 14 天，之后删除。</span></p>
+    </section>
+  </main>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

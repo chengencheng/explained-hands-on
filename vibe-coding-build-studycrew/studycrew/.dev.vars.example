@@ -1,0 +1,5 @@
+# Copy to .dev.vars for local development (wrangler dev). .dev.vars is in .gitignore: never commit it.
+# Turnstile's public test secret (always passes). Use your real secret only in production, via `wrangler secret put`.
+TURNSTILE_SECRET=1x0000000000000000000000000000000AA
+# Optional: only people who know this code can join.
+# CLASS_CODE=10B-2026

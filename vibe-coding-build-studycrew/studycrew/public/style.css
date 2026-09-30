@@ -1,0 +1,22 @@
+:root { --blue: #2f5bd3; --green: #1f9d63; --ink: #1b1d22; --soft: #6b6f78; --bg: #f4f2ec; }
+* { box-sizing: border-box; }
+body { margin: 0; font: 17px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink); background: var(--bg); }
+header { background: var(--blue); color: #fff; padding: 20px 16px; }
+header h1 { margin: 0 0 4px; font-size: 26px; }
+header p { margin: 0; opacity: .9; }
+main { max-width: 480px; margin: 0 auto; padding: 16px; }
+label, fieldset { display: block; margin: 0 0 14px; font-weight: 600; }
+input, select { display: block; width: 100%; margin-top: 4px; padding: 10px; font: inherit; border: 1px solid #9aa0ab; border-radius: 8px; background: #fff; }
+fieldset { border: 1px solid #c9c6bd; border-radius: 8px; padding: 10px; }
+#slots label { display: inline-flex; align-items: center; gap: 6px; font-weight: 400; margin: 4px 12px 4px 0; }
+#slots input { width: auto; margin: 0; }
+button { width: 100%; padding: 14px; font: inherit; font-weight: 700; color: #fff; background: var(--green); border: 0; border-radius: 10px; }
+button:disabled { opacity: .5; }
+#error { color: #c0392b; min-height: 1.5em; }
+#crew .big { font-size: 22px; font-weight: 700; margin: 0 0 4px; }
+#members { padding-left: 20px; }
+.zh { font-weight: 400; color: var(--soft); font-size: .85em; }
+header .zh { color: #dfe7ff; }
+.note { color: var(--soft); font-size: 14px; }
+[hidden] { display: none !important; }
+button .zh { color: #d9f5e6; }
